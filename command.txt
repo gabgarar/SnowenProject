@@ -1,0 +1,1 @@
+python getSnow.py -v -i D:\TFM\scene_list.gz -o D:\TFM\OUT -c 30 -p 202 -r 32 -s 2014-01-01 -e 2014-01-30
